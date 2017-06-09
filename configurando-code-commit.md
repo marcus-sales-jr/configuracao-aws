@@ -5,7 +5,7 @@ Observação: Essa configuração funciona apenas para usuários Mac/Linux.
 ```
 cd $HOME/.ssh
 ssh-keygen
-[here just create the name codecommit_rsa and leave all fields blank *just click enter*]
+[Aqui basta criar o nome codecommit_rsa e deixar todos os campos em branco * basta clicar em enter *]
 cat codecommit_rsa.pub
 ```
 
